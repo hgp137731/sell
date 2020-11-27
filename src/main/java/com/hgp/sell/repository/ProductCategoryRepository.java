@@ -7,6 +7,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
+ *  类目DAO
  * @Author: GuangPeng He
  * @Date: 2020/11/24 20:51
  * @Remark AoLiGei
